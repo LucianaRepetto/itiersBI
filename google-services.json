@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919836216209",
+    "firebase_url": "https://webitiers.firebaseio.com",
+    "project_id": "webitiers",
+    "storage_bucket": "webitiers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919836216209:android:e2158f790a60d9c3",
+        "android_client_info": {
+          "package_name": "www.itiers.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919836216209-76scep7pnnjps42qdanao1ufkb2knmu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl2x5rtnOkeuS2upSiN8nt9fqeaF94Wcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

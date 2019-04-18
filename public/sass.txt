@@ -1,0 +1,13 @@
+Comando compilacion sass (INPUT / OUPUT)
+
+
+
+Para utilizas sass debo tener instalado ruby (completo PATH)
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\panel de contol(este equipo, propiedades), conf avanzada del sistema,
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\opciones avanzadas, variables de entorno(abajo), path (doble click)
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ c:\Ruby23\bin(depende donde lo instale y q version)
+ Y luego correr gem install sass
+
+para compilar sass (en la carpeta root de la pagina en cmd)
+
+sass ./sass/style.scss ./css/style.css

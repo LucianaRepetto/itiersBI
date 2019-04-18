@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="196.30684mm"
+   height="196.30684mm"
+   viewBox="0 0 196.30684 196.30684"
+   version="1.1"
+   id="svg4643"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs4637">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5338"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5336"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#e76218;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5310"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#3d3d3f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5308"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#525558;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5026"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       id="filter5024"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood5014"
+         result="flood"
+         flood-color="rgb(176,109,51)"
+         flood-opacity="0.42999999999999999" />
+      <feComposite
+         id="feComposite5016"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur5018"
+         result="blur"
+         stdDeviation="0.6"
+         in="composite1" />
+      <feOffset
+         id="feOffset5020"
+         result="offset"
+         dy="3.1"
+         dx="3.6" />
+      <feComposite
+         id="feComposite5022"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-6.5294132"
+     inkscape:cy="482.7966"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1-5"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4640">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.87634524,-39.340632)">
+    <g
+       id="layer1-5"
+       inkscape:label="Layer 1"
+       transform="translate(-5.9702386,-11.005952)">
+      <path
+         id="path4529"
+         style="opacity:1;fill:#e76218;stroke-width:0.99999988;marker-start:url(#marker5338);filter:url(#filter5024);fill-opacity:1"
+         d="m 71.484051,149.25595 v -42.83946 h 5.04006 5.039868 v 42.83946 42.83946 h -5.039868 -5.04006 z m -5.039868,0 v -42.83946 h 10.079928 10.079735 v 42.83946 42.83946 H 76.524111 66.444183 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4527"
+         style="opacity:1;fill:#3d3d3f;fill-opacity:1;stroke-width:0.99999988;marker-start:url(#marker5310);filter:url(#filter5024)"
+         d="M 116.84344,156.81576 V 121.53629 H 104.24358 91.643706 v -7.55999 -7.55981 h 27.719654 27.71966 v 7.55981 7.55999 H 137.0031 126.92336 v 35.27947 35.27965 h -5.04005 -5.03987 z m -5.03987,0 V 121.53629 H 99.203706 86.603846 v -7.55999 -7.55981 h 35.279464 35.27965 v 7.55981 7.55999 H 144.5631 131.96323 v 35.27947 35.27965 h -10.07992 -10.07974 z"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="92.846916"
+         cy="148.5"
+         cx="105"
+         id="path4541"
+         style="opacity:1;fill:#ffffd8;fill-opacity:0;stroke:#d2d2d2;stroke-width:10.61299992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
